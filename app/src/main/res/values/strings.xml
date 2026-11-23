@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VCal</string>
+    <string name="widget_name">VCal Calendar</string>
+    <string name="widget_description">CalDAV (RFC 4791) VEVENT calendar widget for Nextcloud and standard CalDAV servers. Resizable from a 1×1 date badge to a full Month Grid + Upcoming Agenda desktop widget.</string>
+    <string name="widget_all_calendars">All Calendars</string>
+    <string name="widget_empty_unconfigured_title">Connect CalDAV server</string>
+    <string name="widget_empty_unconfigured_subtitle">Tap to link Nextcloud Calendar or any RFC 4791 server</string>
+    <string name="widget_empty_no_events_title">No upcoming events</string>
+    <string name="widget_empty_no_events_subtitle">Tap + to schedule an event</string>
+    <string name="widget_cd_prev_month">Previous month</string>
+    <string name="widget_cd_next_month">Next month</string>
+    <string name="widget_cd_today">Jump to current month</string>
+    <string name="widget_cd_switch_cal">Switch calendar</string>
+    <string name="widget_cd_refresh">Sync calendars</string>
+    <string name="widget_cd_add_event">Quick add event</string>
+    <string name="widget_cd_open_app">Open VCal app</string>
+</resources>

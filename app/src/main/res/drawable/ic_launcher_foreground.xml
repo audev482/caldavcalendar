@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Crisp white calendar body -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M30,30 L78,30 C81.3,30 84,32.7 84,36 L84,76 C84,79.3 81.3,82 78,82 L30,82 C26.7,82 24,79.3 24,76 L24,36 C24,32.7 26.7,30 30,30 Z" />
+    <!-- Coral-red calendar top header bar -->
+    <path
+        android:fillColor="#FFEF4444"
+        android:pathData="M30,30 L78,30 C81.3,30 84,32.7 84,36 L84,45 L24,45 L24,36 C24,32.7 26.7,30 30,30 Z" />
+    <!-- Calendar binding rings -->
+    <path
+        android:fillColor="#FFE2E8F0"
+        android:pathData="M38,24 L42,24 C43.1,24 44,24.9 44,26 L44,35 C44,36.1 43.1,37 42,37 L38,37 C36.9,37 36,36.1 36,35 L36,26 C36,24.9 36.9,24 38,24 Z" />
+    <path
+        android:fillColor="#FFE2E8F0"
+        android:pathData="M66,24 L70,24 C71.1,24 72,24.9 72,26 L72,35 C72,36.1 71.1,37 70,37 L66,37 C64.9,37 64,36.1 64,35 L64,26 C64,24.9 64.9,24 66,24 Z" />
+    <!-- 3x2 day grid with highlighted today circle -->
+    <path android:fillColor="#FFCBD5E1" android:pathData="M33,53 h8 v6 h-8 z" />
+    <path android:fillColor="#FFCBD5E1" android:pathData="M45,53 h8 v6 h-8 z" />
+    <path android:fillColor="#FF2563EB" android:pathData="M61,56 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0" />
+    <path android:fillColor="#FFCBD5E1" android:pathData="M33,66 h8 v6 h-8 z" />
+    <path android:fillColor="#FF0D9488" android:pathData="M45,66 h8 v6 h-8 z" />
+    <path android:fillColor="#FFCBD5E1" android:pathData="M57,66 h8 v6 h-8 z" />
+</vector>
